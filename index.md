@@ -127,7 +127,7 @@ The table below summarizes the data for each split based on the sentences, minut
 ##  Citation
 When utilizing this dataset in your research, remember to cite the dataset paper once it is published.
 
-## license
+## License
 Please follow the licensing terms of Creative Commons Attribution-NonCommercial (CC BY-NC).
 
 <html lang="en">
